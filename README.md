@@ -5,7 +5,7 @@ In this git repository, students will find:
  2. Example data?
   
   
-#### [Course Overview](https://docs.google.com/document/d/e/2PACX-1vTr1zOyrUedA1yx76olfDe5jn88miCNb3EJcC3INmy8nDmbJ8N5Y0B30EBoOunsWbA2DGOVWpgJzIs9/pub):
+#### [Course Overview](https://docs.google.com/document/d/e/2PACX-1vTr1zOyrUedA1yx76olfDe5jn88miCNb3EJcC3INmy8nDmbJ8N5Y0B30EBoOunsWbA2DGOVWpgJzIs9/pub): 
 In the Course Overview you will find general information about the course. 
 
 #### Unit 1 - Setup and Data Acquisition:
