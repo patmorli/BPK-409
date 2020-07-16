@@ -8,10 +8,8 @@ In this git repository, students will find:
 #### [Course Overview](https://docs.google.com/document/d/e/2PACX-1vTr1zOyrUedA1yx76olfDe5jn88miCNb3EJcC3INmy8nDmbJ8N5Y0B30EBoOunsWbA2DGOVWpgJzIs9/pub): 
 In the Course Overview you will find general information about the course. 
 
-#### Unit 1 - Setup and Data Acquisition:
-
+#### [Unit 1 - Setup and Data Acquisition](https://docs.google.com/document/d/e/2PACX-1vSutDkFd9_6fi6nlRRoImSaRy06N6F0huDHBphpv4k_onJisk16iiyzBDp1Ubhe6W0vBhZN3sckAqoI/pub):
 The purpose of this lab is to learn how to set up the basics of the measurement system, collect the first acceleration data, and filter and analyse the data.
-Link here
 
 #### Unit 2 - Electrocardiography (ECG):
 
