@@ -5,6 +5,7 @@ In this git repository, students will find:
   Example data?
   
 Please go ahead and check out the Lab Overview at this link:
+
 https://docs.google.com/document/d/e/2PACX-1vTr1zOyrUedA1yx76olfDe5jn88miCNb3EJcC3INmy8nDmbJ8N5Y0B30EBoOunsWbA2DGOVWpgJzIs9/pub
   
   
