@@ -4,13 +4,9 @@ In this git repository, students will find:
  1. Provided codes for the microcontroller
  2. Example data?
   
-Please go ahead and check out the Lab Overview at this link:
-
-https://docs.google.com/document/d/e/2PACX-1vTr1zOyrUedA1yx76olfDe5jn88miCNb3EJcC3INmy8nDmbJ8N5Y0B30EBoOunsWbA2DGOVWpgJzIs9/pub
   
-  
-#### Course Overview:
-By clicking on the links, you will be directed to the respective lab manuals. In the lab manuals students will learn about the learning objectives, the expected assignment, and how to collect and analyze their data. Please use this template for your assignments. 
+#### [Course Overview](https://docs.google.com/document/d/e/2PACX-1vTr1zOyrUedA1yx76olfDe5jn88miCNb3EJcC3INmy8nDmbJ8N5Y0B30EBoOunsWbA2DGOVWpgJzIs9/pub):
+In the Course Overview you will find general information about the course. 
 
 #### Unit 1 - Setup and Data Acquisition:
 
