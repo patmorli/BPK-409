@@ -1,8 +1,8 @@
 # BPK-409
 
 In this git repository, students will find:
-  Provided codes for the microcontroller
-  Example data?
+ 1. Provided codes for the microcontroller
+ 2. Example data?
   
 Please go ahead and check out the Lab Overview at this link:
 
