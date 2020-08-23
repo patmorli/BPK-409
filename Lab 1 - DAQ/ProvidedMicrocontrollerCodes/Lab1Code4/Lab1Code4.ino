@@ -29,6 +29,8 @@
   Distributed as is; no warrenty given.
 */
 
+// To do: change Serial monitor baud rate to 56700
+
 #include <Wire.h>                 // Must include Wire library for I2C
 #include "SparkFun_MMA8452Q.h"    // Click here to get the library: http://librarymanager/All#SparkFun_MMA8452Q
 #include "SparkFun_Qwiic_OpenLog_Arduino_Library.h"
